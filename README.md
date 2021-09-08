@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Welcome to ChApp!
 
 Welcome to ChApp a revolutionarily old school Chat App. This app utalizes websockets to connect multiple users to a single synchronized chat room. Users also have the ability to move to different rooms and create rooms at their whim. 
 
